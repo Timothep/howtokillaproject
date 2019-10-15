@@ -4,7 +4,7 @@ The thought of sabotaging the project you are currently working on has certainly
 
 ![](https://media.giphy.com/media/2sddCIZRYfiPlNeLZn/giphy.gif)
 
-Refresh the [homepage](http://www.timothep.net) to get new tips each time!
+Refresh the [homepage](http://killproject.timothep.net) to get new tips each time!
 
 # Are you a sabotage veteran?
 
