@@ -11,4 +11,7 @@ Refresh the ["Sabotage that Project Today" Homepage](http://sabotagethatproject.
 If you feel creative and want to add fuel to this neverending fail-fire, edit the [tips](https://github.com/timothep/howtokillaproject/blob/master/tips) file and send a pull request our way!
 
 Here's the format:
+
 `Tip | Your Name | Your Twitter Handle Starting with @`
+
+For a better readability, try to limit the length of your tip to 100 chars or less. 
