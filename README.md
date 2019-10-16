@@ -14,4 +14,4 @@ Here's the format:
 
 `Tip | Your Name | Your Twitter Handle Starting with @`
 
-For a better readability, try to limit the length of your tip to 100 chars or less. 
+For a better readability, try to limit the length of your tip to the vanilla-tweet length of 140 chars or less!
